@@ -2,7 +2,7 @@
 
 [Live demo](http://vue-ycapvj5w5.g.tau.link)
 
-## Project setup
+## Project setup....
 ```
 yarn install
 ```
